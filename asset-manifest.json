@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fruits-store/static/css/main.ab5eb961.css",
+    "main.js": "/fruits-store/static/js/main.9cbfe1a6.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/fruits-store/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/hero_bg.jpg": "/fruits-store/static/media/hero_bg.47ab7b0924c1ac33c681.jpg",
+    "static/media/about_bg.jpg": "/fruits-store/static/media/about_bg.d3c27ac79e1a5d2f683f.jpg",
+    "static/media/logo.png": "/fruits-store/static/media/logo.15ced8193adb35f5d4da.png",
+    "static/media/fontawesome-webfont.eot": "/fruits-store/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/fruits-store/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/potatoes.jpg": "/fruits-store/static/media/potatoes.9df6ff1d46e9e7ac739b.jpg",
+    "static/media/contact_bg.jpg": "/fruits-store/static/media/contact_bg.fc025f75fb4a6c03ed96.jpg",
+    "static/media/cucumbers.jpg": "/fruits-store/static/media/cucumbers.bcd2f4dc436ed812b74c.jpg",
+    "static/media/nectarine.jpg": "/fruits-store/static/media/nectarine.54049606d914895a8c0f.jpg",
+    "static/media/orange.jpg": "/fruits-store/static/media/orange.337b6990fe058fb89fae.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/fruits-store/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/tomatos.jpg": "/fruits-store/static/media/tomatos.53767014cc1d6cbd9cac.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/fruits-store/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/cherries.jpg": "/fruits-store/static/media/cherries.bb41d5cc9b58504035a7.jpg",
+    "index.html": "/fruits-store/index.html",
+    "main.ab5eb961.css.map": "/fruits-store/static/css/main.ab5eb961.css.map",
+    "main.9cbfe1a6.js.map": "/fruits-store/static/js/main.9cbfe1a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab5eb961.css",
+    "static/js/main.9cbfe1a6.js"
+  ]
+}
